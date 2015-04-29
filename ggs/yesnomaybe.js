@@ -235,6 +235,8 @@ var submitDelta = null;
 function onAnswer(newAnswer) {
   // Gets the temporary hangout id, corresponding to Participant.id
   // rather than Participant.id.
+
+  alert("Hola Mundo");
   var myId = getUserHangoutId();
 
   var answerKey = makeUserKey(myId, 'answer');
