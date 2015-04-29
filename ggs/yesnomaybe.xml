@@ -27,7 +27,7 @@
   <script type="text/javascript" src="https://raw.githubusercontent.com/lyonn19/hangoutGoogle/master/ggs/yesnomaybe.js"></script>
 
   <link type="text/css" rel="stylesheet"
-      href="//hangoutsapi.appspot.com/static/yesnomaybe/yesnomaybe.css" />
+      href="https://raw.githubusercontent.com/lyonn19/hanghoutO/master/static/yesnomaybe/yesnomaybe.css" />
 
 ]]></Content>
 </Module>
