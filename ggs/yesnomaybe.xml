@@ -25,8 +25,7 @@
   <script type="text/javascript"
       src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
   <script type="text/javascript" src="https://rawgit.com/lyonn19/hangoutGoogle/master/ggs/yesnomaybe.js"></script>
-  <script type="text/javascript" src="https://rawgit.com/lyonn19/hangoutGoogle/master/ggs/encoder.js"></script>
-
+ 
   <link type="text/css" rel="stylesheet"
       href="https://rawgit.com/lyonn19/hangoutGoogle/master/static/yesnomaybe/yesnomaybe.css" />
 
