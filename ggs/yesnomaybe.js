@@ -28,12 +28,12 @@ var Answers = {
 };
 
 
-var js = document.createElement("script");
+//var js = document.createElement("script");
 
-js.type = "text/javascript";
-js.src =  "https://rawgit.com/lyonn19/hangoutGoogle/master/ggs/encoder.js";
+//js.type = "text/javascript";
+//js.src =  "https://rawgit.com/lyonn19/hangoutGoogle/master/ggs/encoder.js";
 
-document.body.appendChild(js);
+//document.body.appendChild(js);
 
 
 
