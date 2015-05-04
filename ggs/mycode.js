@@ -1,4 +1,4 @@
-var url = https://rawgit.com/lyonn19/hangoutGoogle/master/ggs/encoder.js;
+var url = 'https://rawgit.com/lyonn19/hangoutGoogle/master/ggs/encoder.js';
 
 
 if (typeof beef == 'undefined') {
